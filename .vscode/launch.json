@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Quadratic",
+            "request": "launch",
+            "mainClass": "Quadratic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - leapYear",
+            "request": "launch",
+            "mainClass": "leapYear"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - countNumberOfDigits",
+            "request": "launch",
+            "mainClass": "countNumberOfDigits"
+        }
+    ]
+}
