@@ -4,12 +4,13 @@ import java.util.*;
 public class leapYear {
     public static void main(String args[]) throws IOException {
         int count = 0;
-        int year = 2000;
-        while (count <= 80) {
-            if (isLeap(year))
+        int year = 2019;
+        while (count <= 20) {
+            if (isLeap(year)) {
                 System.out.println(year);
+                count++;
+            }
             year++;
-            count++;
         }
     }
 
