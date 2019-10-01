@@ -1,3 +1,4 @@
 Contribitors
 
-Sarawut Silprawat (https://github.com/benzsamator)
+- Vu Quoc Hoang
+- Sarawut Silprawat (https://github.com/benzsamator)
