@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - countNumberOfDigits",
+            "request": "launch",
+            "mainClass": "countNumberOfDigits"
+        }
+    ]
+}
